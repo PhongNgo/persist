@@ -28,6 +28,10 @@ You can find instructions how to install, run, and reproduce all results in Tabl
 
 **NOTE: using `run_test.sh`, except Persist, some examples will take longer than 40 mins (in a machine of 2.4 Ghz 2 cores, 4GB RAM), or run out of memory; you may need to stop it yourself!!!**
 
+## License
+Persist is using the source code of Trencher. The Persist tool is licensed under GPLv2. 
+See LICENSE.
+   
 ## References
 [1] D. Shasha and M. Snir. Efficient and correct execution of parallel programs that share memory. ACM Trans. Program. Lang. Syst., 10(2):282–312, Apr. 1988.
 
