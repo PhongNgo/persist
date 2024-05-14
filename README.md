@@ -43,6 +43,4 @@ See LICENSE.
 
 [5] S. Owens. Reasoning about the implementation of concurrency abstractions on x86-tso. In ECOOP, volume 6183 of LNCS, pages 478-503, Springer 2010.
 
-## Contact/Bug report
-Feedback, questions or bug reports should be directed to Tuan Phong Ngo (tuanphong.ngo@gmail.com).
 
